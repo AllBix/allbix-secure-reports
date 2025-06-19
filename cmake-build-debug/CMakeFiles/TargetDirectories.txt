@@ -1,0 +1,3 @@
+C:/Users/kalea/OneDrive/Desktop/website/SecureIncidentReporter/cmake-build-debug/CMakeFiles/SecureIncidentReporter.dir
+C:/Users/kalea/OneDrive/Desktop/website/SecureIncidentReporter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kalea/OneDrive/Desktop/website/SecureIncidentReporter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

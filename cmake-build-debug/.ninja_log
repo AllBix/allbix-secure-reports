@@ -1,0 +1,4 @@
+# ninja log v6
+22	950	7666775719784410	CMakeFiles/SecureIncidentReporter.dir/main.cpp.obj	efbf331d1c8e7b81
+10	1385	7666775719657609	CMakeFiles/SecureIncidentReporter.dir/incident_reporter.cpp.obj	9d033e6b1825b9ae
+1386	1749	7666775733410271	SecureIncidentReporter.exe	a9d7a134011504af
